@@ -1,14 +1,11 @@
 package polymorphism;
-
+import org.springframework.context.support.AbstractApplicationContext;
+import org.springframework.context.support.GenericXmlApplicationContext;
 public class TVUser {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		SamsungTV tv = new SamsungTV();
-		tv.powerOn();
-		tv.volumeUp();
-		tv.volumeDown();
-		tv.powerOff();
+		//1. Spring 컨테이너를 구동한다.
+		
 	}
 
 }
