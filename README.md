@@ -111,6 +111,11 @@ Dependency lookup은 지금까지 사용한 것이고
 
 ### :rabbit: 어노테이션 기반 설정 
 
+
+<details>
+<summary>자세히</summary>
+<div markdown="1">
+
 [참고 블로그](https://velog.io/@gillog/Spring-Annotation-%EC%A0%95%EB%A6%AC) :내용을 아주 잘 정리해서 가져와봤다.
 <br>
 <br>
@@ -125,3 +130,18 @@ Dependency lookup은 지금까지 사용한 것이고
 
 => 'XML 설정' 과 어노테이션을 적절히 혼용해서 사용해야함.
 
+</div>
+</details>
+
+### :rabbit: 비즈니스 컴포넌트 실습1
+<details>
+<summary>자세히</summary>
+<div markdown="1">
+
+결과:
+
+<img src ="./image/image10.png" width="100%" height="70%">
+
+
+</div>
+</details>
