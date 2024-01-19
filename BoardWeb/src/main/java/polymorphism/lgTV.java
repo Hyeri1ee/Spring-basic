@@ -7,6 +7,7 @@ public class lgTV implements TV{
 	public void powerOff() {
 		System.out.println("LgTV --전원 끈다.");
 	}
+	
 	public void volumeUp() {
 		System.out.println("LgTV --소리 울린다.");
 	}
