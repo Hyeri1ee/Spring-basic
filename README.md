@@ -96,12 +96,16 @@ Dependency lookup은 지금까지 사용한 것이고
 <br>
 <br>
 <br>
-### :thumbsup: 의존 관계 변경
+#### 의존 관계 변경
 
 스프링 설정 파일만 적절히 관리하면 동작하는 TV도 변경가능하고, TV가 사용하는 스피커도 변경가능하다.
 이 과정에서 :smile: 어떤 자바 코드도 변경하지 않는다.:smile:
 
 <img src ="./image9.png" width="70%" height="70%">
+
+### :thumbsup: setter 인젝션
+
+생성자 인젝션보다 setter 인젝션을 많이 사용한다
 
 </details>
 
