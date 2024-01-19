@@ -109,4 +109,19 @@ Dependency lookup은 지금까지 사용한 것이고
 
 </details>
 
-### :rabbit: 
+### :rabbit: 어노테이션 기반 설정 
+
+[참고 블로그](https://velog.io/@gillog/Spring-Annotation-%EC%A0%95%EB%A6%AC) :내용을 아주 잘 정리해서 가져와봤다.
+<br>
+<br>
+
+> @Component
+- 개발자가 직접 작성한 class를 bean으로 등록하기 위한 Annotation이다.
+- Component에 대한 추가 정보가 없다면 Class의 이름을 camelCase로 변경한 것이 Bean id로 사용된다.
+> @Autowired
+- 기본 생성자가 없을 때, 매개변수가 존재한다면, 이를 주입시키기 위해 사용
+> @Qualifier
+- 의존성 주입될 객체의 아이디나 이름을 지정할 수 있음.
+
+=> 'XML 설정' 과 어노테이션을 적절히 혼용해서 사용해야함.
+

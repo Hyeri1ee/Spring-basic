@@ -19,5 +19,4 @@ public class TVUser {
 		//3.Sprig 컨테이너를 종료한다.
 		factory.close();
 	}
-
 }
