@@ -17,7 +17,7 @@ public class SamsungTV implements TV{
 		this.price = price;
 	}
 	public void powerOn() {
-		System.out.println("SamsungTV  --전원킨다. (가격 : "+price+")");
+		System.out.println("SamsungTV --전원킨다. (가격 : "+price+")");
 	}
 	public void powerOff() {
 		System.out.println("SamsungTV --전원끈다.");

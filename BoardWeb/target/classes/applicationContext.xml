@@ -7,4 +7,5 @@
 	<bean id="tv" class ="polymorphism.SamsungTV" p:speaker-ref="sony" p:price="270000"/>
 	<bean id="sony" class ="polymorphism.SonySpeaker"/>
 	<bean id="apple" class="polymorphism.AppleSpeaker"/>
+	
 </beans>
