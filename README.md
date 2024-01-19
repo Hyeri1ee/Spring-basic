@@ -19,7 +19,7 @@
 
 : 객체 생성을 캡슐화. 대신 실행할때, argument(SamsungTV, lgTV) 중 한개 넘겨야함.
 
-<img src ="./image1.png" width="70%" height="70%">
+<img src ="image/image1.png" width="70%" height="70%">
 
 </div>
 </details>
@@ -36,7 +36,7 @@
 - getBean() 메소드로 이름이 'tv'인 객체를 요청
 - SamsungTV 객체 반환
 
-<img src ="./image2.png" width="70%" height="70%">
+<img src ="./image/image2.png" width="70%" height="70%">
 
 
 </div>
