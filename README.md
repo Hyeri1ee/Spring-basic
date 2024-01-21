@@ -210,6 +210,13 @@ A가 B에 요청 전송시 Request Header의 'Authorization'에 'Bearer xxxx.yyy
 ## JWT 장점
 - 서버는 비밀키만 알고 있으면 되기 때문에 세션 방식과 같이 별도의 인증 저장소가 필요하지 않음 => 서버측 부하 감소
 
-## JWT 구현 예제 
+## JWT 구현 
+[인프런 Spring JWT 무료 tutorial 강의](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-jwt/dashboard)
+<br>
+<br>
+<img src ="image/image12.png" width="80%" height="100%">
+
+현재 : api에 대한 테스트 postman 이용 -> 잘 구동되는지 여부 확인까지만 함.
+<img src ="image/image13.png" width="80%" height="100%">
 </div>
 </details>
