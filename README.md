@@ -146,15 +146,12 @@ Dependency lookup은 지금까지 사용한 것이고
 </div>
 </details>
 
-# :pushpin: :rabbit: Day 2. 
+# :pushpin: :rabbit: Day 2. AOP
 <details>
 <summary>자세히</summary>
 <div markdown="1">
 
-결과:
-
-<img src ="image/image10.png" width="100%" height="70%">
-
+AOP - 횡단 관심에 해당하는 메소드를 적절하게 실행해줌. -> CORE 관심 코드와 코드가 분리됨.
 
 </div>
 </details>
