@@ -1,6 +1,6 @@
 단순 spring 공부한거 정리한 문서
 
-# :pushpin: 1.BoardWeb 
+# :pushpin: Day 1.BoardWeb & BoardService
 
 ### :rabbit: 다형성 이용
 <details>
@@ -134,6 +134,19 @@ Dependency lookup은 지금까지 사용한 것이고
 </details>
 
 ### :rabbit: 비즈니스 컴포넌트 실습1
+<details>
+<summary>자세히</summary>
+<div markdown="1">
+
+결과:
+
+<img src ="image/image10.png" width="100%" height="70%">
+
+
+</div>
+</details>
+
+# :pushpin: :rabbit: Day 2. 
 <details>
 <summary>자세히</summary>
 <div markdown="1">
