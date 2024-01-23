@@ -152,6 +152,23 @@ Dependency lookup은 지금까지 사용한 것이고
 <div markdown="1">
 
 AOP - 횡단 관심에 해당하는 메소드를 적절하게 실행해줌. -> CORE 관심 코드와 코드가 분리됨.
+<br>
+
+AOP 어노테이션
+
+</div>
+</details>
+
+# :pushpin: :rabbit: Day 3. Model 1
+<details>
+<summary>자세히</summary>
+<div markdown="1">
+
+login.jsp 파일은 webapp 바로 아래에 있어야 함.
+
+<img src ="image/image14.png" width="50%" height="50%">
+
+
 
 </div>
 </details>
